@@ -1,1 +1,0 @@
-# szrushi.github.io
