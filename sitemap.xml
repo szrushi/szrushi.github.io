@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://szrushi.github.io/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-06-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://szrushi.github.io/about/index.html</loc>
     
     <lastmod>2022-06-24</lastmod>
@@ -30,15 +39,6 @@
   
   <url>
     <loc>https://szrushi.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-06-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://szrushi.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2022-06-24</lastmod>
     
