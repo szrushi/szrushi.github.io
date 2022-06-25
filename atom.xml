@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>浮生梦</title>
+  
+  <subtitle>Cheney&#39; blog</subtitle>
+  <link href="https://szrushi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://szrushi.github.io/"/>
+  <updated>2022-06-25T08:34:01.089Z</updated>
+  <id>https://szrushi.github.io/</id>
+  
+  <author>
+    <name>浮生梦</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://szrushi.github.io/posts/4a17b156.html"/>
+    <id>https://szrushi.github.io/posts/4a17b156.html</id>
+    <published>2022-06-25T08:34:01.089Z</published>
+    <updated>2022-06-25T08:34:01.089Z</updated>
+    
+    <content type="html"><![CDATA[<hr><h1 id="测试博客"><a href="#测试博客" class="headerlink" title="测试博客"></a>测试博客</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;h1 id=&quot;测试博客&quot;&gt;&lt;a href=&quot;#测试博客&quot; class=&quot;headerlink&quot; title=&quot;测试博客&quot;&gt;&lt;/a&gt;测试博客&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="jQuery" scheme="https://szrushi.github.io/tags/jQuery/"/>
+    
+    <category term="表格" scheme="https://szrushi.github.io/tags/%E8%A1%A8%E6%A0%BC/"/>
+    
+    <category term="表单验证" scheme="https://szrushi.github.io/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    
+  </entry>
+  
+</feed>
